@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+  =>  Template Name    : Environs - Environmental & Nature Website Template
+
+  =>  Template Link    : https://htmlcodex.com/nature-website-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+=======
+  =>  Template Name    : Environs - Environmental & Nature Website Template
+
+  =>  Template Link    : https://htmlcodex.com/nature-website-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+>>>>>>> 179f3b0 (new version of GREECO)
+  =>  Author Website   : https://htmlcodex.com
